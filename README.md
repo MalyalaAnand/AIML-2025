@@ -9,4 +9,4 @@
 7. Lab 07: Implement Support Vector Machine using Breast Cancer Data
 8. Lab 08: Implement Decision Tree Classifier using Lending Club Data
 9. Lab 09: Implement Random Forest Ensemble Classifier using Lending Club Data
-10. Lab 10: Implement K-Means Clustering using Iris Data
+ 10. Lab 10: Implement K-Means Clustering using Iris Data
