@@ -11,7 +11,7 @@
 9. Lab 09: Implement Random Forest Ensemble Classifier using Lending Club Data
 10. 10.Lab 10: Implement K-Means Clustering using Iris Data
 # Lab Code Notebooks    
-1. Lab 01
+1. [Lab 01](https://github.com/MalyalaAnand/AIML-2025/blob/main/Lab_01_AIML.ipynb)
 2. Lab 02
 3. Lab 03
 4. Lab 04
