@@ -1,6 +1,6 @@
 # AIML-2025
 # Artificial Intelligence and Machine Learning Lab Instruction Sheets
-1. [Lab 01](): Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
+1. Lab 01: Introduction to Python Packages - Numpy, Pandas, Matplotlib, and Access to Data Sources
 2. Lab 02: Implement AI Search using Breadth First, Depth First and A* Search Algorithm using Python
 3. Lab 03: Implement AI Game Strategy using MiniMax and Alpha-Beta Search Algorithms
 4. Lab 04: Implement Linear Regression using Boston Housing Data
