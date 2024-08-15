@@ -12,15 +12,14 @@
 10.Lab 10: Implement K-Means Clustering using Iris Data
 
 # Lab Code Notebooks
-  
-  Lab 01
-  Lab 02
-  Lab 03
-  Lab 04
-  Lab 05
-  Lab 06
-  Lab 07
-  Lab 08
-  Lab 09
-  Lab 10
+  1.Lab 01
+  2.Lab 02
+  3.Lab 03
+  4.Lab 04
+  5.Lab 05
+  6.Lab 06
+  7.Lab 07
+  8.Lab 08
+  9.Lab 09
+  10.Lab 10
 
