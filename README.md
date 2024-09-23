@@ -7,7 +7,7 @@
 5. [Lab 05](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A5.pdf): Implement Logistic Regression using Titanic Ship Data
 6. [Lab 06](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A6.pdf): Implement K-Nearest Neighbor Classification using Classified Manufacturing Dataset
 7. [Lab 07](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A7.pdf): Implement Support Vector Machine using Breast Cancer Data
-8. Lab 08: Implement Decision Tree Classifier using Lending Club Data
+8. [Lab 08](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A8.pdf): Implement Decision Tree Classifier using Lending Club Data
 9. Lab 09: Implement Random Forest Ensemble Classifier using Lending Club Data
 10. 10.Lab 10: Implement K-Means Clustering using Iris Data
 # Lab Code Notebooks    
