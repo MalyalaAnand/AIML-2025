@@ -17,7 +17,7 @@
 4. [Lab 04](https://github.com/MalyalaAnand/AIML-2025/blob/main/Lab_04_AIML.ipynb)
 5. [Lab 05](https://github.com/MalyalaAnand/AIML-2025/blob/main/Lab_05_AIML.ipynb)
 6. [Lab 06](https://github.com/MalyalaAnand/AIML-2025/blob/main/Lab_06_AIML.ipynb)
-7. Lab 07
+7. [Lab 07](https://github.com/MalyalaAnand/AIML-2025/blob/main/Lab_07_AIML.ipynb)
 8. Lab 08
 9. Lab 09
 10. Lab 10
