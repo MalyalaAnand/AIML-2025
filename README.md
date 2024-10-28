@@ -9,7 +9,7 @@
 7. [Lab 07](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A7.pdf): Implement Support Vector Machine using Breast Cancer Data
 8. [Lab 08](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A8.pdf): Implement Decision Tree Classifier using Lending Club Data
 9. [Lab 09](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A9.pdf): Implement Random Forest Ensemble Classifier using Lending Club Data
-10. 10.Lab 10: Implement K-Means Clustering using Iris Data
+10. [Lab 10](https://github.com/MalyalaAnand/AIML-2025/blob/main/AIML_A10.pdf): Implement K-Means Clustering using Iris Data
 # Lab Code Notebooks    
 1. [Lab 01](https://github.com/MalyalaAnand/AIML-2025/blob/main/Lab_01_AIML.ipynb)
 2. [Lab 02](https://github.com/MalyalaAnand/AIML-2025/blob/main/Lab_02_AIML.ipynb)
